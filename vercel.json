@@ -1,5 +1,0 @@
-{
-    "routes": [
-      { "src": "/api/db", "dest": "api/db.js" }
-    ]
-  }
