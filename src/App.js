@@ -5,6 +5,7 @@ import Layout from "./components/Layout";
 
 function App() {
   return (
+    //This is the entry point of our app
     <Router>
       <Layout>
         <Switch>
