@@ -26,7 +26,8 @@ export default function Notes() {
   const breakpoints = {
     default:3,
     1100:2,
-    700:6
+    700:6,
+    300: 12
   }
   return (
     <Container>
