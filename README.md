@@ -29,7 +29,7 @@ This Todo List app is built using React and MUI (Material-UI) components, provid
 
 - **Responsive Design**: The app is built using responsive MUI components, ensuring compatibility across various devices and screen sizes.
 
-### Usage
+### Usage Instructions on Local Machine
 
 1. Clone the repository to your local machine.
 2. Install dependencies using `npm install`.
