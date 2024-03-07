@@ -7,6 +7,8 @@ You'll also need to install Material UI as a dependency. To do this run **npm in
 
 ## Todo List App with MUI (Material-UI) and React
 
+
+
 This Todo List app is built using React and MUI (Material-UI) components, providing a user-friendly interface for managing tasks effectively. With this app, users can:
 
 - **Add Tasks**: Easily add tasks with a title and details, making it convenient to keep track of all pending work.
@@ -31,8 +33,9 @@ This Todo List app is built using React and MUI (Material-UI) components, provid
 
 1. Clone the repository to your local machine.
 2. Install dependencies using `npm install`.
-3. Run the app locally using `npm start`.
-4. Access the app in your browser at `http://localhost:3000`.
+3. Run the json server locally with command  `json-server --watch data/db.json --port 8000`
+4. Run the app locally using `npm start`.
+5. Access the app in your browser at `http://localhost:3000`.
 
 ### Technologies Used
 
