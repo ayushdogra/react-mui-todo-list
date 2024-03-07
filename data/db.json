@@ -19,22 +19,16 @@
       "id": "3"
     },
     {
-      "title": "Get some chai",
-      "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas doloribus architecto sint laboriosam inventore amet consequatur neque ab alias magnam, suscipit expedita facilis sapiente! Deserunt deleniti hic optio neque eligendi!",
-      "category": "work",
-      "id": "4"
-    },
-    {
-      "id": "6bfa",
-      "title": "Course Comment",
-      "details": "I'm really wanna say thank you! It's a great tutorial! And i'm so glad that i've comprehend all this speach. There're almost no such a great videos about mui in my mother tongue, and tbh English is not also my strong suit, but you made it very simple to understand all of this. Thanks again, gonna check out some more of yours tutorials",
-      "category": "reminders"
-    },
-    {
       "id": "ce43",
       "title": "Earn Money",
       "details": "Earning money involves a blend of hard work, skill development, and strategic planning. First, identify your strengths and interests to determine potential avenues for income generation. Consider acquiring new skills or enhancing existing ones through education or training. Next, explore various opportunities such as part-time jobs, freelancing, entrepreneurship, or investing. Networking and building relationships within your industry can open doors to lucrative opportunities. Additionally, staying informed about market trends and emerging technologies can help you capitalize on evolving industries. Persistence, adaptability, and a willingness to take calculated risks are essential traits for financial success. Remember, consistent effort and dedication are key to earning money sustainably.",
       "category": "money"
+    },
+    {
+      "id": "308c",
+      "title": "Hello bhaiji",
+      "details": "Thanks BHaiji",
+      "category": "todos"
     }
   ]
 }
